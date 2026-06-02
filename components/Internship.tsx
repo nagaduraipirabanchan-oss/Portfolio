@@ -2,7 +2,7 @@ export default function Internship() {
   return (
     <section id="internship" className="py-20 px-10">
       {/* Section Heading */}
-      <h2 className="text-4xl font-bold gradient-text mb-10 text-center">
+      <h2 className="text-4xl font-bold gradient-text mb-10">
         Internship Experience
       </h2>
       
