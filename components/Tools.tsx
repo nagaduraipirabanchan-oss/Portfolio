@@ -8,8 +8,8 @@ import {
 import { 
   SiExpress, 
   SiMongodb, 
-  SiJavascript, 
-  
+  SiJavascript,
+  SiBootstrap,
   SiGithub 
 } from "react-icons/si";
 
@@ -23,6 +23,10 @@ export default function Tools() {
     {
       name: "CSS",
       icon: <FaCss3 size={50} />
+    },
+    {
+      name: "BOOTSTRAP",
+      icon: <SiBootstrap size={50} />
     },
     {
       name: "JAVA SCRIPT",

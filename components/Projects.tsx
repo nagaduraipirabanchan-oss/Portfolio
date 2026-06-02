@@ -44,8 +44,26 @@ export default function Projects() {
         challenges: ["Understanding user prompts accurately", "Generating realistic high-quality images"],
         solutions: ["Optimized image generation pipeline", "Efficient backend processing techniques"],
         conclusion: "The AI Image Generator web application provides an intelligent platform for converting text descriptions into visual content.",
+
       },
     },
+    {
+      title: "Adventure Tourism",
+      subtitle: "Responsive Travel Website with Modern UI",
+      description: "Adventure Tourism is a modern and responsive travel website designed to help users explore adventure destinations and activities through an engaging and user-friendly interface.",
+      techStack: ["HTML", "CSS", "JavaScript"],
+      image: "https://img.sanishtech.com/u/918e11d382087cf2a6527f6ce17b8acf.png",
+    caseStudy: {
+       projectDescription:"Adventure Tourism is a modern and responsive travel website designed to help users explore adventure destinations and activities through an engaging and user-friendly interface. The project focuses on responsive design, interactive layouts, smooth navigation, and creating an attractive travel experience using modern web development technologies.",
+       objectives: ["Provide an engaging tourism platform","Create a responsive and modern travel website","Improve user experience with attractive UI design",],
+       features: ["Responsive website design","Interactive travel destination sections","Smooth navigation experience","Modern and attractive UI layout","Mobile-friendly interface",],
+       technologies: ["HTML","CSS","JavaScript",],
+       workingProcess: ["Designed the website structure and layout.", "Developed responsive frontend components.","Implemented interactive UI sections and animations.","Optimized the website for mobile and desktop devices.",],
+       applications: ["Travel and tourism platforms", "Adventure destination showcase", "Tourism information websites",],
+       challenges: ["Maintaining responsive layouts across devices","Creating smooth and attractive UI sections","Optimizing website performance",],
+       solutions: ["Used responsive web design techniques","Implemented optimized frontend layouts","Improved UI structure for better user experience",],
+       conclusion:"The Adventure Tourism project provided practical experience in frontend development, responsive web design, and UI enhancement while building a modern and user-friendly travel platform.",},
+    }
   ];
 
   return (

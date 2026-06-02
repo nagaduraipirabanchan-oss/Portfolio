@@ -4,13 +4,23 @@ export default function Certifications() {
   const certs = [
     {
       title: "Web Development",
-      provider: "Code Alpha",
-      skills: ["Html", "CSS", "JavaScript", "React JS", "Node JS", "Mongo DB"]
+      provider: "XPAND COMPANY",
+      skills: ["Html", "CSS", "JavaScript"]
     },
     {
       title: "React JS",
       provider: "NoviTech R&D Limited",
       skills: ["UI Development", "State Management", "React Router"]
+    },
+    {
+      title: "AWS Workshop",
+      provider: "AWS",
+      skills: ["Amazon web Services"]
+    },
+    {
+      title: "Web Development",
+      provider: "Code Alpha",
+      skills: ["Html", "CSS", "JavaScript", "React JS", "Node JS", "Mongo DB"]
     },
     {
       title: "Enterprise Design Thinking",
