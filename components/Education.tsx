@@ -10,7 +10,7 @@ export default function Education() {
       status: "Currently Pursuing"
     },
     {
-      degree: "Bachelor of Science in Computer Science", 
+      degree: "Bachelor of Commerce with Computer Applications (B.Com CA)", 
       institution: "Your UG College Name",
       location: "Coimbatore | Bharathiar University",
       duration: "2021 - 2024",
